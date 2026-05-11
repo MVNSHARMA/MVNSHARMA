@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+MVN+Sharma+%F0%9F%91%8B;Agentic+AI+Builder;LLM+Orchestration+%7C+RAG+Systems+%7C+Autonomous+Agents;Building+intelligent+systems+in+public)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MVNSHARMA&color=6E57F7&style=flat-square&label=Profile+Views)
-&nbsp;
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20AI%2FML%20Roles-1D9E75?style=flat-square)
 &nbsp;
 ![Location](https://img.shields.io/badge/Hyderabad-India-blue?style=flat-square)
