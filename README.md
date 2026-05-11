@@ -103,26 +103,6 @@ AI fashion recommendation product — shipped solo from idea to production. Buil
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MVNSHARMA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVNSHARMA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MVNSHARMA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-</p>
-
----
-
-## Contribution activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MVNSHARMA/MVNSHARMA/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
 
 ## Let's talk
 
