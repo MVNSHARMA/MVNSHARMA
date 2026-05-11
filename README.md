@@ -1,134 +1,137 @@
+<!-- Typing banner -->
 <div align="center">
 
-# 👋 Hey, I'm MVN Sharma
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E57F7&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+MVN+Sharma+%F0%9F%91%8B;Agentic+AI+Builder;LLM+Orchestration+%7C+RAG+Systems+%7C+Autonomous+Agents;Building+intelligent+systems+in+public)](https://git.io/typing-svg)
 
-### 🤖 Agentic AI Builder · LLM Orchestration · RAG Systems · Autonomous Agents
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-sharma--portfolio.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://sharma-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-sharma-b62880390/)
-[![Email](https://img.shields.io/badge/Email-sharmavenky17@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmavenky17@gmail.com)
-[![Location](https://img.shields.io/badge/Based_in-India_(Remote_Ready)-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/MVNSHARMA)
+![Profile Views](https://komarev.com/ghpvc/?username=MVNSHARMA&color=6E57F7&style=flat-square&label=Profile+Views)
+&nbsp;
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Remote%20AI%2FML%20Roles-1D9E75?style=flat-square)
+&nbsp;
+![Location](https://img.shields.io/badge/Hyderabad-India-blue?style=flat-square)
 
 </div>
 
 ---
 
-## 🧠 About Me
+## About me
 
-I'm an **Agentic AI builder** focused on designing and shipping LLM-powered autonomous systems — from multi-turn chatbots and RAG retrieval pipelines to personalized AI decision engines and multi-API orchestration workflows.
+I build LLM-powered systems that actually do things — RAG pipelines that retrieve and reason over real documents, agents that make decisions across multiple APIs, and memory layers that make AI feel less forgetful.
 
-- 🔭 Currently building: **autonomous agents, memory systems & LLM orchestration pipelines**
-- 🎓 B.Tech in Computer Science @ KLH University, Hyderabad *(CGPA: 8.83/10)*
-- ⚡ I prototype fast, ship working products, and thrive in early-stage environments where **the intelligence layer is the product**
-- 📬 Open to: **remote AI/ML roles, agentic AI projects, and collaborations**
+I'm a recent CS grad, not someone with 5 years of industry experience. But I prototype fast, I ship working products, and I've spent the last year going deep on the agentic AI stack rather than collecting certificates.
+
+- 🚀 **Currently building:** a multi-agent orchestration framework with persistent memory
+- 🎓 **B.Tech Computer Science** — KLH University, Hyderabad · 8.83 CGPA
+- 🎯 **Looking for:** remote AI/ML roles where LLM systems are core to the product, not a side feature
+- 💬 **Happy to talk about:** RAG architecture, prompt engineering, agentic design patterns
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
-### 🤖 LLM APIs & Models
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+**LLM & Agents**
 
-### 🧩 Agentic & RAG Systems
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0ea5e9?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-7c3aed?style=flat-square)
-![Multi-turn Agents](https://img.shields.io/badge/Multi--turn_Agents-16a34a?style=flat-square)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-f59e0b?style=flat-square)
-![Memory Systems](https://img.shields.io/badge/Memory_Systems-ef4444?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 
-### 🐍 Python & ML
+**Python & ML**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
-### 🌐 Frontend & Deployment
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+**Frontend & Deploy**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured projects
 
-### 🏛️ [Legal Document Summarizer](https://github.com/MVNSHARMA/Legal-Document-Summarizer)
-> **RAG + LLM Agent Pipeline** — Google Gemini API · PDF.js · JavaScript · Vite · Vercel
+### 🟢 CineMatch — [Live Demo](YOUR_LINK) · [Repo](YOUR_LINK)
+**React 19 · OpenAI API · Firebase · Node.js · Tailwind**
 
-An autonomous document intelligence pipeline that ingests unstructured legal documents (PDF, OCR, images), retrieves relevant context, and extracts structured outputs — **case overview, legal provisions, final judgments** — without human intervention.
-
-`RAG Pipeline` `Tool Calling` `Multi-turn Agent` `Prompt Engineering` `Multi-format Retrieval`
-
----
-
-### 🎬 [CineMatch](https://cinematch-47e62.web.app) — *Live 🟢*
-> **Personalized AI Recommendation Agent** — React 19 · OpenAI API · Firebase · Node.js · Tailwind
-
-An LLM orchestration pipeline that dynamically adjusts movie recommendations based on **user mood, quiz history, and behavioral signals**, with a persistent memory layer using Firebase for cross-session context-aware decisions.
+LLM orchestration pipeline that dynamically adjusts movie recommendations based on user mood, quiz history, and behavioral signals. Persistent memory layer via Firebase for cross-session context-aware decisions — not a stateless wrapper, an actual memory system.
 
 `LLM Orchestration` `Behavioral Memory` `Multi-API Integration` `Real-time State`
 
 ---
 
-### 🩻 [AI Chest X-Ray Analyser](https://github.com/MVNSHARMA/chest-xray-disease-prediction-)
-> **Automated Reasoning & Decision Pipeline** — Python · TensorFlow · CNN · OpenCV
+### 🏛️ Legal Document Summarizer — [Repo](YOUR_LINK)
+**Gemini API · PDF.js · JavaScript · Vite · Vercel**
 
-End-to-end autonomous AI reasoning pipeline: image ingestion → preprocessing → CNN classification → multi-class decision output **(NORMAL / PNEUMONIA / TUBERCULOSIS)** with per-class confidence scores (e.g., Pneumonia: 96%).
+RAG pipeline that ingests unstructured legal PDFs (including OCR and images), retrieves relevant context, and extracts structured outputs — case overview, legal provisions, final judgments — without human intervention. Zero human-in-loop extraction.
 
-`Autonomous Decision Pipeline` `Confidence Scoring` `Output Validation` `Model Evaluation`
-
----
-
-### 👗 [Style Match](https://smart-style.vercel.app) — *Live 🟢*
-> **AI-Driven Recommendation System** — HTML · CSS · JavaScript · Firebase
-
-Rapidly prototyped and shipped an AI fashion recommendation product, demonstrating startup-speed delivery from idea to deployed product.
-
-`AI Recommendation` `Firebase Integration` `Rapid Prototyping`
+`RAG Pipeline` `Tool Calling` `Multi-format Retrieval` `Prompt Engineering`
 
 ---
 
-## 🏆 Hackathon Experience
+### 🩻 AI Chest X-Ray Analyser — [Repo](YOUR_LINK)
+**Python · TensorFlow · CNN · OpenCV**
 
-| Hackathon | Project | Tags |
+End-to-end autonomous reasoning pipeline: image ingestion → preprocessing → CNN classification → 3-class decision output (NORMAL / PNEUMONIA / TUBERCULOSIS) with per-class confidence scores. 96% confidence on pneumonia class.
+
+`Autonomous Pipeline` `Confidence Scoring` `Medical Imaging` `Model Evaluation`
+
+---
+
+### 🟢 Style Match — [Live Demo](YOUR_LINK) · [Repo](YOUR_LINK)
+**HTML · CSS · JavaScript · Firebase**
+
+AI fashion recommendation product — shipped solo from idea to production. Built to prove I can deliver end-to-end, not just prototype it.
+
+`AI Recommendation` `Firebase Integration` `Shipped Solo`
+
+---
+
+## Hackathons
+
+| Event | Project | Stack |
 |---|---|---|
-| 🏫 Tech Mahindra University 2025 | **Mood-Based Food Journal** — LLM mood detection → context-aware food recommendations | `LLM` `Conversational Agent` |
-| 🎓 IIT Mandi 2025 | **IMDb Comment Summarizer** — NLP pipeline: scrape → sentiment → LLM summary | `NLP` `Sentiment Analysis` |
+| 🏫 Tech Mahindra University 2025 | Mood-Based Food Journal — LLM mood detection → context-aware food recommendations | LLM · Conversational Agent |
+| 🎓 IIT Mandi 2025 | IMDb Comment Summarizer — scrape → sentiment analysis → LLM summary generation | NLP · Sentiment · LLM |
 
 ---
 
-## 📊 GitHub Stats
+## GitHub stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MVNSHARMA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MVNSHARMA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</p>
 
-![MVN Sharma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MVNSHARMA&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MVNSHARMA&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-I'm actively looking for **remote AI/ML engineering roles** — especially where agentic AI, LLM orchestration, or RAG systems are core to the product.
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-sharma-b62880390/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sharma-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmavenky17@gmail.com)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MVNSHARMA&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
 
 ---
 
+## Contribution activity
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MVNSHARMA/MVNSHARMA/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+## Let's talk
+
+I'm actively looking for remote AI/ML engineering roles — especially where agentic AI, RAG, or LLM orchestration are core to what the team builds. If that's you, reach out.
+
+<p>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
