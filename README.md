@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm MVN Sharma
 
-### 🤖 Agentic AI Engineer · LLM Orchestration · RAG Systems · Autonomous Agents
+### 🤖 Agentic AI Builder · LLM Orchestration · RAG Systems · Autonomous Agents
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sharma--portfolio.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white)](https://sharma-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkat-sharma-b62880390/)
@@ -131,6 +131,4 @@ I'm actively looking for **remote AI/ML engineering roles** — especially where
 
 ---
 
-<div align="center">
-  <i>"I prototype fast, ship working products, and thrive in early-stage environments where the intelligence layer is the product."</i>
-</div>
+
