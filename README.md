@@ -58,7 +58,7 @@ I'm a recent CS grad, not someone with 5 years of industry experience. But I pro
 
 ## Featured projects
 
-### 🟢 CineMatch — [Live Demo](YOUR_LINK) · [Repo](YOUR_LINK)
+### 🟢 CineMatch — [Live Demo](https://cinematch-47e62.web.app/) · [Repo](https://github.com/MVNSHARMA/cinematch)
 **React 19 · OpenAI API · Firebase · Node.js · Tailwind**
 
 LLM orchestration pipeline that dynamically adjusts movie recommendations based on user mood, quiz history, and behavioral signals. Persistent memory layer via Firebase for cross-session context-aware decisions — not a stateless wrapper, an actual memory system.
@@ -67,7 +67,7 @@ LLM orchestration pipeline that dynamically adjusts movie recommendations based 
 
 ---
 
-### 🏛️ Legal Document Summarizer — [Repo](YOUR_LINK)
+### 🏛️ Legal Document Summarizer — [Repo](https://github.com/MVNSHARMA/new-text-analyser)
 **Gemini API · PDF.js · JavaScript · Vite · Vercel**
 
 RAG pipeline that ingests unstructured legal PDFs (including OCR and images), retrieves relevant context, and extracts structured outputs — case overview, legal provisions, final judgments — without human intervention. Zero human-in-loop extraction.
@@ -76,7 +76,7 @@ RAG pipeline that ingests unstructured legal PDFs (including OCR and images), re
 
 ---
 
-### 🩻 AI Chest X-Ray Analyser — [Repo](YOUR_LINK)
+### 🩻 AI Chest X-Ray Analyser — [Repo](https://github.com/MVNSHARMA/chest-xray-disease-prediction-)
 **Python · TensorFlow · CNN · OpenCV**
 
 End-to-end autonomous reasoning pipeline: image ingestion → preprocessing → CNN classification → 3-class decision output (NORMAL / PNEUMONIA / TUBERCULOSIS) with per-class confidence scores. 96% confidence on pneumonia class.
@@ -85,7 +85,7 @@ End-to-end autonomous reasoning pipeline: image ingestion → preprocessing → 
 
 ---
 
-### 🟢 Style Match — [Live Demo](YOUR_LINK) · [Repo](YOUR_LINK)
+### 🟢 Style Match — [Live Demo](https://smart-style.vercel.app/auth?next=%2Fstyle-check) · [Repo](https://github.com/MVNSHARMA/style-up)
 **HTML · CSS · JavaScript · Firebase**
 
 AI fashion recommendation product — shipped solo from idea to production. Built to prove I can deliver end-to-end, not just prototype it.
@@ -129,9 +129,9 @@ AI fashion recommendation product — shipped solo from idea to production. Buil
 I'm actively looking for remote AI/ML engineering roles — especially where agentic AI, RAG, or LLM orchestration are core to what the team builds. If that's you, reach out.
 
 <p>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/venkat-sharma-b62880390/?skipRedirect=true"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   &nbsp;
-  <a href="YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://sharma-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:sharmavenky17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
